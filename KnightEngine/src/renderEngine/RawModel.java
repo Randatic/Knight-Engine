@@ -1,7 +1,7 @@
 package renderEngine;
 
 /**
- * @author nell
+ * @author Randy Bruner
  *
  */
 public class RawModel {
